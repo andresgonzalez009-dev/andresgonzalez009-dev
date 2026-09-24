@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Andres
 
-<!--
-**andresgonzalez009-dev/andresgonzalez009-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business operator learning software development, data infrastructure, APIs, databases, and AI.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- APIs and system integrations
+- SQL and PostgreSQL
+- Backend development
+- Data architecture
+- SaaS development
+- AI-powered business applications
+
+## What I'm building toward
+
+My goal is to build business software that can connect to company systems, organize operational data, and create better workflows, analytics, and automation.
+
+## Current focus
+
+I'm building my technical foundation from the ground up and working toward my first full-stack B2B application.
